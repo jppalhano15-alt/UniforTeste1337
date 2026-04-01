@@ -1,5 +1,6 @@
 <script>
 
-let teste = 1;
+let teste = 5;
+let aux = 12;
 
 </script>
